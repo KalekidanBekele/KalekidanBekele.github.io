@@ -1,3 +1,9 @@
 The Account ID: 721527082789
 The Username: user1
 The password: User1234.
+
+To reach the EFS:
+1. Got to EC2 and connect to "PrjCons"
+2. enter 'sudo su'
+         'cd /'
+         'cd efs'
